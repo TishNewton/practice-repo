@@ -3,4 +3,3 @@ Learning Git is fun!
 Snapshots are like photos!
 Module 2: Tracking changes...
 Ready for GitHub!
-I hate Git!
