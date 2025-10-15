@@ -1,1 +1,4 @@
 Learning Git!
+Learning Git is fun!
+Snapshots are like photos!
+Module 2: Tracking changes...
